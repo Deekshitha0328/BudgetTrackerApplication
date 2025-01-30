@@ -1,0 +1,17 @@
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Database\bin\Debug\net8.0\BudgetTracker.Database.deps.json
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Database\bin\Debug\net8.0\BudgetTracker.Database.runtimeconfig.json
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Database\bin\Debug\net8.0\BudgetTracker.Database.dll
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Database\bin\Debug\net8.0\BudgetTracker.Database.pdb
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Database\obj\Debug\net8.0\BudgetTracker.Database.csproj.AssemblyReference.cache
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Database\obj\Debug\net8.0\BudgetTracker.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Database\obj\Debug\net8.0\BudgetTracker.Database.AssemblyInfoInputs.cache
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Database\obj\Debug\net8.0\BudgetTracker.Database.AssemblyInfo.cs
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Database\obj\Debug\net8.0\BudgetTracker.Database.csproj.CoreCompileInputs.cache
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Database\obj\Debug\net8.0\BudgetTracker.Database.dll
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Database\obj\Debug\net8.0\refint\BudgetTracker.Database.dll
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Database\obj\Debug\net8.0\BudgetTracker.Database.pdb
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Database\obj\Debug\net8.0\BudgetTracker.Database.genruntimeconfig.cache
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Database\obj\Debug\net8.0\ref\BudgetTracker.Database.dll
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Database\bin\Debug\net8.0\BudgetTracker.Utitlities.dll
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Database\bin\Debug\net8.0\BudgetTracker.Utitlities.pdb
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Database\obj\Debug\net8.0\BudgetTr.40897B20.Up2Date

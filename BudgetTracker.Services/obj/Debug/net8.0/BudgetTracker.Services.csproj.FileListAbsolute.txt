@@ -1,0 +1,17 @@
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Services\bin\Debug\net8.0\BudgetTracker.Services.deps.json
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Services\bin\Debug\net8.0\BudgetTracker.Services.dll
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Services\bin\Debug\net8.0\BudgetTracker.Services.pdb
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Services\bin\Debug\net8.0\BudgetTracker.Database.dll
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Services\bin\Debug\net8.0\BudgetTracker.Database.pdb
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Services\obj\Debug\net8.0\BudgetTracker.Services.csproj.AssemblyReference.cache
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Services\obj\Debug\net8.0\BudgetTracker.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Services\obj\Debug\net8.0\BudgetTracker.Services.AssemblyInfoInputs.cache
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Services\obj\Debug\net8.0\BudgetTracker.Services.AssemblyInfo.cs
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Services\obj\Debug\net8.0\BudgetTracker.Services.csproj.CoreCompileInputs.cache
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Services\obj\Debug\net8.0\BudgetTr.C80BBAE9.Up2Date
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Services\obj\Debug\net8.0\BudgetTracker.Services.dll
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Services\obj\Debug\net8.0\refint\BudgetTracker.Services.dll
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Services\obj\Debug\net8.0\BudgetTracker.Services.pdb
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Services\obj\Debug\net8.0\ref\BudgetTracker.Services.dll
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Services\bin\Debug\net8.0\BudgetTracker.Utitlities.dll
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Services\bin\Debug\net8.0\BudgetTracker.Utitlities.pdb

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "mZCEWjtxUEWHL1p1+T6rEK4wz91A1N9mi3A7qPjxTC0=",
+  "Source": "BudgetTracker.API",
+  "BasePath": "_content/BudgetTracker.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

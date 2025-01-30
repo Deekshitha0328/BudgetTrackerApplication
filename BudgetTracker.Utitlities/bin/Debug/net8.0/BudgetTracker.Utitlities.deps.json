@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BudgetTracker.Utitlities/1.0.0": {
+        "runtime": {
+          "BudgetTracker.Utitlities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BudgetTracker.Utitlities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

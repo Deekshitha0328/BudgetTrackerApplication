@@ -1,0 +1,11 @@
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Utitlities\bin\Debug\net8.0\BudgetTracker.Utitlities.deps.json
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Utitlities\bin\Debug\net8.0\BudgetTracker.Utitlities.dll
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Utitlities\bin\Debug\net8.0\BudgetTracker.Utitlities.pdb
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Utitlities\obj\Debug\net8.0\BudgetTracker.Utitlities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Utitlities\obj\Debug\net8.0\BudgetTracker.Utitlities.AssemblyInfoInputs.cache
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Utitlities\obj\Debug\net8.0\BudgetTracker.Utitlities.AssemblyInfo.cs
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Utitlities\obj\Debug\net8.0\BudgetTracker.Utitlities.csproj.CoreCompileInputs.cache
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Utitlities\obj\Debug\net8.0\BudgetTracker.Utitlities.dll
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Utitlities\obj\Debug\net8.0\refint\BudgetTracker.Utitlities.dll
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Utitlities\obj\Debug\net8.0\BudgetTracker.Utitlities.pdb
+C:\Users\deekshitha.karri\BudgetTracker\BudgetTracker.Utitlities\obj\Debug\net8.0\ref\BudgetTracker.Utitlities.dll
